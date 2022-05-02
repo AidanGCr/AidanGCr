@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AidanGCr
-- 👀 I’m interested in web development and data analysis
+- 👀 I’m interested in bioinformatics, computational biology, and human genetics
 - 🌱 I’m currently learning HTML, CSS, JavaScript, NodeJS/ExpressJS, ReactJS
-- 💞️ I’m looking to collaborate on any web development projects, and anything related even remotely to bioinformatics
+- 💞️ I’m looking to collaborate on any web development projects, and anything related to bioinformatics
 - 📫 How to reach me: via email @ aidangcruickshank@gmail.com or aidan.cruickshank@mail.mcgill.ca
 
 <!---
